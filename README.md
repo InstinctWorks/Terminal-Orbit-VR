@@ -1,25 +1,25 @@
 # Terminal Orbit VR
 
-Terminal Orbit is a VR escape room game developed in Unity as a collaborative university project. Players explore a space-station environment and solve interactive puzzles to progress through the experience.
+Terminal Orbit is a VR escape room game developed in Unity as a collaborative university project for **FA/DATT 4310 M – Interactive Installation Based Gaming** at York University.
 
-This repository contains the Unity project and showcases my contributions to the game's VR interactions, puzzle mechanics, and gameplay systems.
+Players explore a space-station environment and solve interactive puzzles to progress through the experience. This repository contains the Unity project and serves as a portfolio archive showcasing my contributions to the game's VR interactions, puzzle mechanics, and gameplay systems.
 
 ## About the Project
 
 Terminal Orbit was designed around environmental puzzle-solving in virtual reality. Players interact with objects throughout a space-station environment and complete a sequence of puzzles before reaching the exit.
 
-The project provided hands-on experience developing interactive VR mechanics in Unity and connecting multiple gameplay systems together using C#.
+The project provided hands-on experience developing interactive VR mechanics in Unity and connecting multiple gameplay systems using C#.
 
 ## My Contributions
 
 My work focused primarily on implementing and integrating gameplay mechanics for the escape-room portion of the project, including:
 
 - Interactive VR puzzle mechanics using Unity and C#
-- A stone tablet/object placement puzzle with snap and highlighting behaviour
-- A window/pyramid light-path puzzle
-- A lever-controlled laser system
-- A circuit-board rotation puzzle
-- A fly-by pyramid/code puzzle
+- Stone tablet placement puzzle with snapping and highlighting behaviour
+- Window and pyramid light-path puzzle
+- Lever-controlled laser system
+- Circuit-board rotation puzzle
+- Fly-by pyramid/code puzzle
 - Puzzle progression and interaction logic
 - Exit-zone and fade-out behaviour
 - Integration of puzzle objects and interactions within the VR environment
@@ -32,27 +32,27 @@ I also worked with Unity's XR systems to connect these mechanics to VR interacti
 - C#
 - Unity XR / XR Interaction Toolkit
 - Virtual Reality development
-- Git / Version Control
+- Git / GitHub
 
 ## Screenshots
 
 ### Space Station Environment
 
-<!-- Add screenshot here -->
+![Terminal Orbit space station environment](Screenshots/terminal-orbit-overview.png)
 
-### Puzzle Area
+### Laser Puzzle
 
-<!-- Add screenshot here -->
+![Terminal Orbit laser puzzle](Screenshots/terminal-orbit-laser-puzzle.png)
 
 ### Exit Area
 
-<!-- Add screenshot here -->
+![Terminal Orbit exit area](Screenshots/terminal-orbit-exit.png)
 
 ## Project Status
 
 This repository is an archived portfolio version of the project.
 
-The original project was developed and tested using VR hardware that I no longer have access to. The Unity project, scenes, scripts, and core project files have been preserved, but the current repository has not been fully re-tested on the original VR hardware.
+The original project was developed and tested using VR hardware that I no longer have access to. The Unity project, scenes, scripts, and core project files have been preserved, but the current repository has not been fully re-tested using the original VR hardware.
 
 ## Team Project
 
