@@ -10,6 +10,10 @@ Terminal Orbit was designed around environmental puzzle-solving in virtual reali
 
 The project provided hands-on experience developing interactive VR mechanics in Unity and connecting multiple gameplay systems using C#.
 
+## Project Links
+
+- [Terminal Orbit – Original Team Release on itch.io](https://apeironcheung.itch.io/terminal-orbit)
+
 ## My Contributions
 
 My work focused primarily on implementing and integrating gameplay mechanics for the escape-room portion of the project, including:
